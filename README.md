@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=WallaksCardoso&color=006bed)
 
-<h3>👋 Sobre mim</h3>
+<h3>Sobre mim</h3>
 
 Sou um desenvolvedor back-end com formação em Análise e Desenvolvimento de Sistemas. Tenho experiência em projetos utilizando Java (8, 11, 17 e 21), Spring Boot, bancos de dados Oracle (PL/SQL) e MySQL. Já atuei com integrações entre sistemas, automação de processos e APIs REST com foco em performance, segurança e boas práticas.
 
@@ -8,7 +8,7 @@ Atualmente, trabalho na Matera, participando ativamente de uma squad responsáve
 
 ---
 
-<h3>🚀 Habilidades Técnicas</h3>
+<h3>Habilidades técnicas</h3>
 
 **Back-end e Banco de Dados**  
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -42,7 +42,21 @@ Atualmente, trabalho na Matera, participando ativamente de uma squad responsáve
 
 ---
 
-<h3>💼 Experiências Recentes</h3>
+<h3>Projetos em destaque</h3>
+
+| Projeto | Descrição | Stack |
+| --- | --- | --- |
+| [painel-financeiro](https://github.com/WallaksCardoso/painel-financeiro) | Fluxo de caixa pessoal com faturas de cartão, parcelas, recorrências e dívidas | Python, FastAPI, React, TypeScript |
+| [pelada-gestao](https://github.com/WallaksCardoso/pelada-gestao) | API para organizar a pelada e sortear os times, em microsserviços | Java, Spring Boot, Kafka, PostgreSQL |
+| [spring-jwt-auth](https://github.com/WallaksCardoso/spring-jwt-auth) | Autenticação stateless com JWT usada pelos serviços da pelada | Java, Spring Security, JWT |
+| [email-service](https://github.com/WallaksCardoso/email-service) | Notificações por e-mail a partir de eventos do Kafka, com novas tentativas e tópico de erro | Java, Spring Boot, Kafka |
+| [sorteio-times](https://github.com/WallaksCardoso/sorteio-times) | PWA para sortear times no celular e compartilhar no WhatsApp | TypeScript, Vite, PWA |
+| [pelada-gestao-front-web](https://github.com/WallaksCardoso/pelada-gestao-front-web) | Interface da pelada em Flutter, publicada para a web | Flutter, Dart |
+| [algoritmo-genetico-java](https://github.com/WallaksCardoso/algoritmo-genetico-java) | Algoritmo genético para otimizar a carga de um caminhão baú | Java |
+
+---
+
+<h3>Experiências recentes</h3>
 
 **Desenvolvedor Back-End | Matera (jul/2024 - atual)**  
 Atuação em uma squad responsável por soluções críticas com foco em Java, Spring, PL/SQL, Kafka e Docker.
@@ -58,7 +72,7 @@ Primeiro contato com PL/SQL e desenvolvimento orientado a objetos com Java 11. A
 
 ---
 
-<h3>📫 Contato</h3>
+<h3>Contato</h3>
 
 - LinkedIn: [linkedin.com/in/wallakscardoso](https://www.linkedin.com/in/wallakscardoso/)
 - E-mail: **wallakscardoso@gmail.com**
