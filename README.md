@@ -47,11 +47,11 @@ Atualmente, trabalho na Matera, participando ativamente de uma squad responsáve
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
 | [painel-financeiro](https://github.com/WallaksCardoso/painel-financeiro) | Fluxo de caixa pessoal com faturas de cartão, parcelas, recorrências e dívidas | Python, FastAPI, React, TypeScript |
-| [pelada-gestao](https://github.com/WallaksCardoso/pelada-gestao) | API para organizar a pelada e sortear os times, em microsserviços | Java, Spring Boot, Kafka, PostgreSQL |
+| [pelada-gestao](https://github.com/WallaksCardoso/pelada-gestao) | API para organizar a pelada e sortear os times, em microsserviços, que sobe completa com Docker Compose | Java, Spring Boot, Kafka, PostgreSQL, Docker |
 | [spring-jwt-auth](https://github.com/WallaksCardoso/spring-jwt-auth) | Autenticação stateless com JWT usada pelos serviços da pelada | Java, Spring Security, JWT |
 | [email-service](https://github.com/WallaksCardoso/email-service) | Notificações por e-mail a partir de eventos do Kafka, com novas tentativas e tópico de erro | Java, Spring Boot, Kafka |
 | [sorteio-times](https://github.com/WallaksCardoso/sorteio-times) | PWA para sortear times no celular e compartilhar no WhatsApp | TypeScript, Vite, PWA |
-| [pelada-gestao-front-web](https://github.com/WallaksCardoso/pelada-gestao-front-web) | Interface da pelada em Flutter, publicada para a web | Flutter, Dart |
+| [pelada-gestao-front-web](https://github.com/WallaksCardoso/pelada-gestao-front-web) | Interface da pelada em Flutter, para web e celular | Flutter, Dart |
 | [algoritmo-genetico-java](https://github.com/WallaksCardoso/algoritmo-genetico-java) | Algoritmo genético para otimizar a carga de um caminhão baú | Java |
 
 ---
