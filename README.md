@@ -1,8 +1,13 @@
 Oi, eu sou o Wallaks.
 
-Sou desenvolvedor back-end na Matera, onde trabalho com Java, Spring, PL/SQL, Kafka e Docker em
-sistemas de missão crítica. Antes passei pela Conexos, integrando sistemas de comércio exterior,
-criando APIs e otimizando consultas em Oracle. Sou formado em Análise e Desenvolvimento de Sistemas.
+Sou desenvolvedor backend pleno na Matera, em sistemas de pagamento e infraestrutura bancária:
+Pix e SPI do Banco Central, conciliação entre instituições e convênios de pagamento. Um dos
+trabalhos de que mais gosto foi levar um fluxo de débito Pix de ~30 para ~120 TPS, movendo o
+enriquecimento de lançamentos para o banco de dados. Trabalho com Java 17, Spring Boot 3, Kafka,
+Oracle/PL-SQL, Docker e Testcontainers, e meu time desenvolve com agentes de IA guiados por spec
+(BMAD). Antes passei pela Conexos, integrando sistemas de comércio exterior e otimizando consultas
+em Oracle. Sou formado em Análise e Desenvolvimento de Sistemas e curso pós-graduação em
+Engenharia de Software na PUC Minas.
 
 Aqui ficam projetos pessoais, quase todos nascidos de algum problema meu:
 
